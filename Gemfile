@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
-gem 'rails','3.2.12'
+
+ruby "2.1.2"
+gem 'rails','4.1.7'
 gem 'private_pub'
 gem 'thin'
 gem 'foreman'
